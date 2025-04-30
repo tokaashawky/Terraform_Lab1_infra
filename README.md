@@ -22,4 +22,4 @@ Networking
 10- create ec2(application) private subnet with security group from 8 ^_^
 
 # note: you should use s3 bucket as backend and enable state lock
-![Architecture Diagram](./image.png)
+![Architecture Diagram](./imag.png)
